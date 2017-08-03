@@ -1,0 +1,50 @@
+.woocommerce ul.products li.product a img{
+	width: initial;
+	margin:0 auto;
+}
+.woocommerce ul.products li.product .woocommerce-loop-category__title, .woocommerce ul.products li.product .woocommerce-loop-product__title, .woocommerce ul.products li.product h3{
+	font-size: 14px;
+	color: #000000;
+	font-weight: 400;
+	text-align: center;
+	padding-bottom: 0px;
+}
+.woocommerce ul.products li.product .price{
+	font-size: 16px;
+	color: #000000;
+	font-weight: 400;
+	text-align: center;
+	margin-top: 10px;
+}
+.woocommerce ul.products li.product, .woocommerce-page ul.products li.product{
+	background: #ffffff;
+	text-align: center;
+	border:1px solid #e7e7e7;
+	min-height: 310px;
+	height: 310px;
+}
+.woocommerce_product_readmore{
+	font-size: 17px;
+	color:#000000;
+    padding-bottom: 35px;
+    display: block;
+}
+
+.thumb_container {
+    height: 240px;
+    text-align: center;  /* align the inline(-block) elements horizontally */
+    font: 0/0 a;         /* remove the gap between inline(-block) elements */
+}
+
+.thumb_container:before {    /* create a full-height inline block pseudo=element */
+    content: ' ';
+    display: inline-block;
+    vertical-align: middle;  /* vertical alignment of the inline element */
+    height: 100%;
+}
+
+.thumb_container img  {
+    display: inline-block !important;
+    vertical-align: middle;  /* vertical alignment of the inline element */
+    font: 16px/1 Arial sans-serif;        /* <-- reset the font property */
+}

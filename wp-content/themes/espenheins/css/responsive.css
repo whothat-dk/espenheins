@@ -1,0 +1,295 @@
+
+@media only screen and (max-width: 1200px) {
+	.boxed{
+		width:100%;
+	}
+	.vc_employeebox_testimonial{
+		font-size: 14px;
+	}
+
+}
+@media only screen and (max-width: 1100px) {
+	.search_curve{
+		width:100%;
+		left:-6px;
+		top:1px;
+	}
+	div[id*='ajaxsearchlite'].wpdreams_asl_container{
+		margin-top: 5px !important;
+	}
+	.vc_infobox_container_bottom a{
+		padding: 29px 20px 0 20px;
+	}
+	.vc_infobox_title{
+		padding: 30px 20px 0 20px;
+	}
+	.vc_infobox_phone{
+		padding: 11px 20px 0 20px;
+	}
+
+}
+@media only screen and (max-width: 1050px) {
+	.vc_infobox_container_bottom a{
+		padding-top: 22px;
+	}
+	.vc_employeebox_container{
+		height: 250px;
+	}
+	.vc_employeebox_image{
+		top:initial;
+		bottom:0;
+	}
+	.search_container{
+		width:80%;
+	}
+	div[id*='ajaxsearchlite'] .probox .proinput input{
+		width: 175px !important;
+	}
+
+}
+@media only screen and (max-width: 1000px) {
+	.footer_company_info{
+		padding-left: 30px;
+	}
+	.search_container{
+		width:88%;
+		margin-left: 27px;
+	}
+	div[id*='ajaxsearchlite'] .probox .proloading{
+		right: calc(100% - 180px);
+	}
+	div[id*="ajaxsearchlite"] .probox .promagnifier{
+		right:20px !important;
+	}
+	div[id*='ajaxsearchlite'] .probox .proclose{
+		left:-20px;
+	}
+
+
+}
+@media only screen and (max-width: 960px) {
+	.search_curve{
+		top:3px;
+	}
+
+}
+@media only screen and (max-width: 950px) {
+	.vc_infobox_title{
+		font-size: 20px;
+	}
+	.vc_infobox_phone{
+		font-size: 19px;
+	}
+	#ajaxsearchlite1 .probox .proinput input, div[id*="ajaxsearchlite"] .probox .proinput input{
+		height:30px !important;
+	}
+	div[id*='ajaxsearchlite'].wpdreams_asl_container{
+		margin-top: 8px !important;
+	}
+	div[id*='ajaxsearchlite'] .probox div.asl_loader{
+		width:90% !important;
+		height:90% !important;
+	}
+	div[id*='ajaxsearchlite'] .probox .proinput input{
+		width:155px !important;
+	}
+	div[id*='ajaxsearchlite'] .probox .proloading{
+		right: calc(100% - 170px);
+	}
+	div[id*="ajaxsearchlite"] .probox .promagnifier{
+		right:25px !important;
+	}
+	div[id*='ajaxsearchlite'] .probox .proclose{
+		left:-25px;
+	}
+
+}
+@media only screen and (max-width: 900px) {
+	.search_curve{
+		top:3px;
+	    width: 105%;
+    	left: -15px;
+	}
+	.vc_employeebox_image{
+		width: 90px;
+	}
+	.vc_employeebox_testimonial{
+		width:60%;
+	}
+	div[id*="ajaxsearchlite"] .probox .promagnifier{
+		right:15px !important;
+	}
+	div[id*='ajaxsearchlite'] .probox .proclose{
+		left:-15px;
+	}
+
+}
+@media only screen and (max-width: 850px) {
+	.search_curve{
+		top: 5px;
+	}
+	.vc_infobox_title{
+		font-size: 17px;
+	}
+	.vc_infobox_phone{
+		font-size: 16px;
+	}
+	.search_container{
+		width: 92%;
+		margin-left: 12px;
+	}
+	#ajaxsearchlite1 .probox .proinput input, div[id*="ajaxsearchlite"] .probox .proinput input{
+		height: 26px !important;
+	}
+	div[id*='ajaxsearchlite'].wpdreams_asl_container{
+		margin-top: 12px !important;
+	}
+	div[id*='ajaxsearchlite'] .probox .proclose{
+		top:-3px;
+	}
+	div[id*='ajaxsearchlite'] .probox div.asl_loader{
+	    width: 70% !important;
+    	height: 70% !important;
+	}
+	div[id*="ajaxsearchlite"] .probox .promagnifier{
+		top:-3px;
+	}
+
+}
+@media only screen and (max-width: 800px) {
+	.cart_header_container{
+		display: none;
+	}
+	.search_container{
+		display: none;
+	}
+	.header_bottom{
+		border-top:6px solid #111111;
+	    height: 24px;
+	    border-bottom: 3px solid #d51f37;
+	}
+	.woocommerce ul.products li.product, .woocommerce-page ul.products li.product{
+		width:50%;
+	}
+	.footer_company_info{
+		padding-left: 0px;
+	}
+	.footer_menu_container{
+		margin-bottom: 20px;
+	}
+	.header_nav{
+		display: none;
+	}
+	header .site-logo{
+		height: 30px;
+	}
+	.site-logo{
+		float: none;
+	}
+	.site-logo img{
+	    position: absolute;
+	    left: 0;
+	    right: 0;
+	    margin: 0 auto;
+	}
+
+	.breadcrumb_container{
+		margin-top: 0px;
+	}
+	.header_nav_resp{
+		display: block;
+	}
+}
+@media only screen and (max-width: 767px) {
+	.vc_infobox_title{
+		font-size: 24px;
+	}
+	.vc_infobox_phone{
+		font-size: 24px;
+	}
+	.vc_infobox_container_bottom a{
+		padding-top: 28px;
+	}
+	.vc_infobox_container{
+		margin-bottom: 0px;
+	}
+	.vc_employeebox_container{
+		height: 217px;
+	}
+	.vc_employeebox_image{
+		width: initial;
+	    top: -24px;
+	}
+	.vc_employeebox_testimonial{
+		width:70%;
+	}
+}
+@media only screen and (max-width: 600px) {
+	.vc_fa_icon{
+		width: 50px;
+		height: 50px;
+		font-size: 23px !important;
+		padding-top: 14px;
+	}
+	.vc_fa_iconbox_link{
+		font-size: 22px;
+	}
+	.footer_bottom .col3:last-of-type{
+		width:100%;
+	}
+	.footer_logo_container{
+	    margin: 0 auto;
+    	display: block;
+    	width: 270px;
+	}
+	.footer_curve{
+		width:90%;
+	}
+	.footer_logo img{
+		width:60%;
+	}
+}
+@media only screen and (max-width: 500px) {
+	.vc_employeebox_testimonial{
+	    width: 50%;
+	}
+	.vc_infobox_title{
+		font-size: 23px;
+	}
+	.vc_infobox_container_bottom a{
+		padding-top: 17px;
+	}
+	.vc_employeebox_testimonial{
+		margin-left: 20px;
+	}
+	.vc_employeebox_name, .vc_employeebox_position{
+		left:20px;
+	}
+	.vc_fa_icon{
+		display: block !important;
+		margin: 0 auto;
+		margin-bottom:20px;
+	}
+
+}
+@media only screen and (max-width: 450px) {
+	header .site-logo img{
+		width:60%;
+	}
+}
+@media only screen and (max-width: 400px) {
+	.woocommerce ul.products li.product, .woocommerce-page ul.products li.product{
+		width:100%;
+	}
+	
+}
+@media only screen and (max-width: 350px) {
+	.vc_employeebox_testimonial{
+		font-size: 13px;
+	}
+	.header_nav_resp{
+		top:11px;
+	}
+
+	
+}
